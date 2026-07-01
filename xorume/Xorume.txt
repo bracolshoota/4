@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Título do Documento</title>
+</head>
+<body>
+    <!-- Seu conteúdo de texto aqui -->
+    <p>Primeiro parágrafo</p>
+    <p>Segundo parágrafo</p>
+</body>
+</html>
